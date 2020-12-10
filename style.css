@@ -1,0 +1,21 @@
+body {
+	background-color: #FFF;
+	background: border-color red;
+}
+
+h1 {
+	text-shadow: -1px -1px 1px #aaa,
+             0px 4px 5px rgba(0,0,0,0.5),
+             4px 4px 15px rgba(0,0,0,0.7),
+             0px 0px 20px rgba(0,0,0,0.4);
+    font-size: 80px
+}
+
+.rouge {
+	color: red;
+	font-weight: bold; 
+}
+
+.badge {
+	background-color: #dc3545
+}
